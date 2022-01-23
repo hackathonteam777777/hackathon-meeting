@@ -8,4 +8,4 @@ Siebenhundertsiebenundsibzigtausendsiebenhundertsiebenundsiebzigster
 - `node app.js`
 
 # Demo
-You can test at
+You can test at https://meeting-hackaton-testappl.herokuapp.com
